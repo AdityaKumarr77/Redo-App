@@ -51,34 +51,6 @@ Whenever you log a solved problem, ReDo queues it up for review at increasing sc
 
 ---
 
-## 🚀 Quick Start
-
-### Prerequisites
-- Node.js (v18 or higher recommended)
-- npm or yarn / pnpm
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/AdityaKumarr77/Redo-App.git
-   cd Redo-App
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Start the local development server:**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open your browser:**
-   Navigate to [http://localhost:5173](http://localhost:5173) to view the application.
-
----
 
 ## 📖 App Navigation
 
@@ -135,24 +107,8 @@ redo-app/
 
 ---
 
-## 📜 Available Scripts
+Developer:- Aditya Own this project.
 
-- `npm run dev`: Runs the app in development mode with HMR on `http://localhost:5173`.
-- `npm run build`: Compiles TypeScript and builds production-ready assets into the `dist/` directory.
-- `npm run preview`: Locally previews the production build.
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to open an issue or submit a pull request:
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ---
 
